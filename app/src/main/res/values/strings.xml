@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">uidesign</string>
+    <string name="app_message">Hello World</string>
+    <string name="slope">SLOPE</string>
+    <string name="hello">Hello !</string>
+    <string name="signin">Sign in to continue</string>
+    <string name="info"><b>Best place to write life stories and share your journey experience</b></string>
+
+</resources>
